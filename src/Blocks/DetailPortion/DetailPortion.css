@@ -1,0 +1,60 @@
+.DetailPart{
+	height: 500px;
+	background-color: #fff;
+	
+}
+.detailBox{
+	border:1px solid #000;
+	height:490px;
+	margin-top:5px;
+	background-color: #eee;
+
+
+}
+.imgBox{
+	height:400px;
+	width:240px;
+	margin:25px 15px;
+	border-radius:10px;
+	background-color: #ccc;
+	float:left;
+}
+.movName{
+	margin-top:40px;
+}
+.relaseDate{
+	font-size:15px;
+	float:left;
+}
+.abtMov{
+	margin-left:10px;
+	font-size:15px;
+	float:left;
+}
+.duration{
+	font-size:15px;
+	padding-left:500px;
+	margin-top:20px;
+}
+.overview{
+	padding-top:120px;
+	font-size:22px;
+	font-weight:bold;
+}
+.movPara{
+	margin-top:20px;
+}
+.names li{
+	list-style:none;
+	float:left;
+	margin:25px;
+	font-weight:bold;
+
+}
+.nameBox{
+	margin-top:25px;
+}
+.name{
+	font-weight:bold;
+	
+}
