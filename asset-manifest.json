@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/appscriptTask/static/css/main.8a2cca6a.chunk.css",
-    "main.js": "/appscriptTask/static/js/main.34e75469.chunk.js",
-    "main.js.map": "/appscriptTask/static/js/main.34e75469.chunk.js.map",
-    "runtime-main.js": "/appscriptTask/static/js/runtime-main.a5578798.js",
-    "runtime-main.js.map": "/appscriptTask/static/js/runtime-main.a5578798.js.map",
-    "static/css/2.569a03b8.chunk.css": "/appscriptTask/static/css/2.569a03b8.chunk.css",
-    "static/js/2.ff28c3ed.chunk.js": "/appscriptTask/static/js/2.ff28c3ed.chunk.js",
-    "static/js/2.ff28c3ed.chunk.js.map": "/appscriptTask/static/js/2.ff28c3ed.chunk.js.map",
-    "index.html": "/appscriptTask/index.html",
-    "precache-manifest.f38248f9569d3b0c431e40886db5e433.js": "/appscriptTask/precache-manifest.f38248f9569d3b0c431e40886db5e433.js",
-    "service-worker.js": "/appscriptTask/service-worker.js",
-    "static/css/2.569a03b8.chunk.css.map": "/appscriptTask/static/css/2.569a03b8.chunk.css.map",
-    "static/css/main.8a2cca6a.chunk.css.map": "/appscriptTask/static/css/main.8a2cca6a.chunk.css.map",
-    "static/js/2.ff28c3ed.chunk.js.LICENSE.txt": "/appscriptTask/static/js/2.ff28c3ed.chunk.js.LICENSE.txt",
-    "static/media/bootstrap.min.css": "/appscriptTask/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "main.css": "/ReactLiveWebsite/static/css/main.8a2cca6a.chunk.css",
+    "main.js": "/ReactLiveWebsite/static/js/main.6eaded59.chunk.js",
+    "main.js.map": "/ReactLiveWebsite/static/js/main.6eaded59.chunk.js.map",
+    "runtime-main.js": "/ReactLiveWebsite/static/js/runtime-main.8b10ec10.js",
+    "runtime-main.js.map": "/ReactLiveWebsite/static/js/runtime-main.8b10ec10.js.map",
+    "static/css/2.d156aeaa.chunk.css": "/ReactLiveWebsite/static/css/2.d156aeaa.chunk.css",
+    "static/js/2.ff28c3ed.chunk.js": "/ReactLiveWebsite/static/js/2.ff28c3ed.chunk.js",
+    "static/js/2.ff28c3ed.chunk.js.map": "/ReactLiveWebsite/static/js/2.ff28c3ed.chunk.js.map",
+    "index.html": "/ReactLiveWebsite/index.html",
+    "precache-manifest.62941f6b44721299d92fb2139b35d695.js": "/ReactLiveWebsite/precache-manifest.62941f6b44721299d92fb2139b35d695.js",
+    "service-worker.js": "/ReactLiveWebsite/service-worker.js",
+    "static/css/2.d156aeaa.chunk.css.map": "/ReactLiveWebsite/static/css/2.d156aeaa.chunk.css.map",
+    "static/css/main.8a2cca6a.chunk.css.map": "/ReactLiveWebsite/static/css/main.8a2cca6a.chunk.css.map",
+    "static/js/2.ff28c3ed.chunk.js.LICENSE.txt": "/ReactLiveWebsite/static/js/2.ff28c3ed.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/ReactLiveWebsite/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5578798.js",
-    "static/css/2.569a03b8.chunk.css",
+    "static/js/runtime-main.8b10ec10.js",
+    "static/css/2.d156aeaa.chunk.css",
     "static/js/2.ff28c3ed.chunk.js",
     "static/css/main.8a2cca6a.chunk.css",
-    "static/js/main.34e75469.chunk.js"
+    "static/js/main.6eaded59.chunk.js"
   ]
 }
